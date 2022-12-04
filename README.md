@@ -1,13 +1,14 @@
 # Principles and Practice in Programming Languages
 # Mini-Project: Fall 2022
+# Marie Resman and Nic Perrault
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+# TODO: Hacking into Haskell
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+For our project, we will be looking into the Haskell framework and how it compares to Scala. We will do a short tutorial on Haskell itself with a basic program and then go over how Scala related to Haskell, considering they are both functional programming languages. 
 ## Repository Organization
 
 TODO: Replace this with a description of the organization of your repository.
