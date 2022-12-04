@@ -8,7 +8,7 @@ See [instructions.md](instructions.md) for submission instructions.
 
 ## Description
 
-For our project, we will be looking into the Haskell framework and how it compares to Scala. We will do a short tutorial on Haskell itself with a basic program and then go over how Scala related to Haskell, considering they are both functional programming languages. 
+For our project, we will be looking into the Haskell framework and how it compares to Scala. We will do a short tutorial on Haskell itself with a basic program and then go over how Scala relates to Haskell, considering they are both functional programming languages. 
 ## Repository Organization
 
 TODO: Replace this with a description of the organization of your repository.
