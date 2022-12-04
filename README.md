@@ -4,7 +4,7 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Hacking into Haskell
+# Hacking into Haskell
 
 ## Description
 
