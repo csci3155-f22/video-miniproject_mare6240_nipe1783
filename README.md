@@ -13,11 +13,16 @@ For our project, we will be looking into the Haskell framework and how it compar
 
 Our repo has the slides from our presentation, the video and then a short script.
 
+## Sources
+- https://andrew.gibiansky.com/blog/haskell/haskell-syntax/
+- http://learnyouahaskell.com/introduction
+- https://www.relexsolutions.com/careers/blog/why-do-we-use-haskell/
+
 
 
 ## Presentation
 
 - YouTube: https://youtu.be/TODO.
 - Script: [script.md](script.md) or [script.pdf](script.pdf).
-- Recording: [recording.mp4](recording.mp4).
+- Recording: [Hacking_into_Haskell.mp4](Hacking_into_Haskell.mp4).
 - Slides (if you use them in your recording): [slides.pdf](slides.pdf)  
