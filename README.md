@@ -22,7 +22,7 @@ Our repo has the slides from our presentation, the video and then a short script
 
 ## Presentation
 
-- YouTube: https://youtu.be/TODO.
+- YouTube: https://youtu.be/sUrai-aDVz4.
 - Script: [script.md](script.md) or [script.pdf](script.pdf).
 - Recording: [Hacking_into_Haskell.mp4](Hacking_into_Haskell.mp4).
 - Slides (if you use them in your recording): [slides.pdf](slides.pdf)  
